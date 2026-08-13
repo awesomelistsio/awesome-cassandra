@@ -38,6 +38,7 @@
 - [TablePlus](https://tableplus.com/) - A modern, native GUI tool for PostgreSQL, MySQL, and Cassandra.
 - [DBeaver](https://dbeaver.io/) - A universal database tool that supports Apache Cassandra.
 - [DBVisualizer](https://www.dbvis.com/) - A database management tool that supports Apache Cassandra.
+- [Mongrel](https://www.visorcraft.com/mongrel) - Cross-platform desktop workbench with Cassandra/Scylla CQL support.
 - [NoSQL Workbench](https://aws.amazon.com/nosql-workbench/) - A visual design tool for NoSQL databases, including support for Apache Cassandra.
 
 ## Backup and Migration
